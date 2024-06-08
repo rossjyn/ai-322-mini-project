@@ -1,2 +1,2 @@
-# ai-322-mini-project
-Repository for AI 322 mini-project. Contains code, documentation, and resources for assignments and labs.
+# AI 322 Mini-Project
+Repository for AI 322 mini-project. Contains all necessary code, documentation, and resources.
